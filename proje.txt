@@ -1,2 +1,2 @@
 Merhaba, bu bir örnek metindir.
-selam
+selam.
